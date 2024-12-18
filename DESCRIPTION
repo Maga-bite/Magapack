@@ -1,0 +1,16 @@
+Package: Magapack
+Type: Package
+Title: How to build a package
+Version: 0.1.0 
+Author: Tommaso Magarotto
+Maintainer: The package maintainer <tommymaga01@gmail.com>
+Description: This package is using simple function for first development example in R.
+Encoding: UTF-8
+Language: en-GB
+License: GPL(>=2)
+Depends: R (>= 4.0.0)
+Imports: devtools
+Suggests: knitr
+Config/testthat/edition: 1
+NeedsCompilation: no
+Packaged: 2024-12-18 15:11:34 UTC; Maga-bite
